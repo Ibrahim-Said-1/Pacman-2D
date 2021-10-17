@@ -8,3 +8,5 @@
 4. compile and run main.cpp
 5. arrows keys control pacman 
 6. escape key to exit the game
+
+![Alt text](game.JPG?raw=true "Title")

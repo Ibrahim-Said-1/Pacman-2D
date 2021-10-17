@@ -1,3 +1,7 @@
+
+
+/*Author: Ibrahim Said and Anders Hagen*/
+
 #include "headers/Libraries.h"
 
 #include "shaders/shader.h"
